@@ -1,0 +1,6 @@
+﻿- Name: InputMania
+  Version: 1.0.0
+  DLL: bin/Debug/net4.5.2/InputMania.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.0.0
